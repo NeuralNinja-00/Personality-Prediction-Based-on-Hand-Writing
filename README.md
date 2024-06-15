@@ -31,6 +31,9 @@ Model accuracy is measured on the test set.
 Predictions are made on new handwriting samples to demonstrate the model's capabilities.
 
 Tools and Technologies:
+
 Programming Language: Python
+
 Libraries: TensorFlow, Keras, OpenCV, NumPy, pandas, scikit-learn
+
 Environment: Jupyter Notebook 
