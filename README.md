@@ -14,6 +14,7 @@ Feature Extraction and Model Training: Use Convolutional Neural Networks (CNNs) 
 Evaluation and Prediction: Evaluate the model's performance on the test set and use it to predict personality traits from new handwriting samples.
 
 **Methodology**
+
 Data Preprocessing:
 Images are resized to a uniform size (128x128 pixels) and normalized.
 Labels are assigned based on the folder names.
