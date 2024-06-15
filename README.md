@@ -1,5 +1,6 @@
 # Personality-Prediction-Based-on-Hand-Writing
 **Overview**
+
 This project aims to predict personality traits from handwriting samples using deep learning techniques. The model is trained to classify handwriting images into one of the five major personality traits: Agreeableness, Conscientiousness, Extraversion, Neuroticism, and Openness. The dataset consists of images categorized into folders corresponding to these traits.
 
 **Objectives**
